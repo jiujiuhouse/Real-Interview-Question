@@ -23,3 +23,5 @@ System.out.println(x.equals(y)); // true
 System.out.println(x.equals(z)); // true
 ```
 代码解读：因为 x 和 y 指向的是同一个引用，所以 == 也是 true，而 new String()方法则重写开辟了内存空间，所以 == 结果为 false，而 equals 比较的一直是值，所以结果都为 true。
+
+[回到目录](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/interviews.md)
