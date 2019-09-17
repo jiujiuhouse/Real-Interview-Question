@@ -146,7 +146,7 @@
 132. MyBatis 有哪些执行器（Executor）？
 133. MyBatis 分页插件的实现原理是什么？
 134. MyBatis 如何编写一个自定义插件？
-## RabbitMQ
+## [RabbitMQ](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/RabbitMQ.md) <label style="color:blue">中等</label>
 135. RabbitMQ 的使用场景有哪些？
 136. RabbitMQ 有哪些重要的角色？
 137. RabbitMQ 有哪些重要的组件？
