@@ -135,7 +135,7 @@
 122. hibernate 对象有哪些状态？
 123. 在 hibernate 中 getCurrentSession 和 openSession 的区别是什么？
 124. hibernate 实体类必须要有无参构造函数吗？为什么？
-## [MyBatis](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/MyBatis.md) <label style="color:blue">中等</label>
+## [MyBatis](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/Mybatis.md) <label style="color:blue">中等</label>
 125. MyBatis 中 #{}和 ${}的区别是什么？
 126. MyBatis 有几种分页方式？
 127. RowBounds 是一次性查询全部结果吗？为什么？
