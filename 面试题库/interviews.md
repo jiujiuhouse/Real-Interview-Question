@@ -35,7 +35,7 @@
 32. Iterator 怎么使用？有什么特点？
 33. Iterator 和 ListIterator 有什么区别？
 34. 怎么确保一个集合不能被修改？
-## [多线程](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/多线程.md) <label style="color:green">困难</label>
+## [多线程](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/多线程.md) <label style="color:red">困难</label>
 35. 并行和并发有什么区别？
 36. 线程和进程的区别？
 37. 守护线程是什么？
@@ -97,7 +97,7 @@
 ## 设计模式
 88. 说一下你熟悉的设计模式？
 89. 简单工厂和抽象工厂有什么区别？
-## Spring/Spring MVC
+## [Spring/Spring MVC](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/Spring%20Spring%20MVC.md) <label style="color:red">中等</label>
 90. 为什么要使用 spring？
 91. 解释一下什么是 aop？
 92. 解释一下什么是 ioc？
