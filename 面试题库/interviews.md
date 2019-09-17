@@ -1,6 +1,5 @@
 # 面试题库
-## [Java 基础](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/Java%20基础.md) 
-<label style="color:green">简单</label>
+## [Java 基础](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/Java%20基础.md) <label style="color:green">简单</label>
 1. JDK 和 JRE 有什么区别？
 2. == 和 equals 的区别是什么？
 3. 两个对象的 hashCode() 相同，则 equals() 也一定为 true，对吗？
