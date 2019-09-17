@@ -35,7 +35,7 @@
 32. Iterator 怎么使用？有什么特点？
 33. Iterator 和 ListIterator 有什么区别？
 34. 怎么确保一个集合不能被修改？
-## 多线程
+## [多线程](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/多线程.md) <label style="color:green">困难</label>
 35. 并行和并发有什么区别？
 36. 线程和进程的区别？
 37. 守护线程是什么？
