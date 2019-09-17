@@ -40,7 +40,7 @@ Integer 类型为对象，它的值允许为 null，而 int 属于基础数据�
 
 * 数据查询时，没有 OID 指定的对象，get() 返回 null；load() 返回一个代理对象。
 * load()支持延迟加载；get() 不支持延迟加载。
-121. 说一下 hibernate 的缓存机制？
+## 121. 说一下 hibernate 的缓存机制？
 
 hibernate 常用的缓存有一级缓存和二级缓存：
 
@@ -48,16 +48,16 @@ hibernate 常用的缓存有一级缓存和二级缓存：
 
 二级缓存：应用级别的缓存，在所有 Session 中都有效，支持配置第三方的缓存，如：EhCache。
 
-122. hibernate 对象有哪些状态？
+## 122. hibernate 对象有哪些状态？
 
 * 临时/瞬时状态：直接 new 出来的对象，该对象还没被持久化（没保存在数据库中），不受 Session 管理。
 * 持久化状态：当调用 Session 的 save/saveOrupdate/get/load/list 等方法的时候，对象就是持久化状态。
 * 游离状态：Session 关闭之后对象就是游离状态。
-123. 在 hibernate 中 getCurrentSession 和 openSession 的区别是什么？
+## 123. 在 hibernate 中 getCurrentSession 和 openSession 的区别是什么？
 
 * getCurrentSession 会绑定当前线程，而 openSession 则不会。
 * getCurrentSession 事务是 Spring 控制的，并且不需要手动关闭，而 openSession 需要我们自己手动开启和提交事务。
-124. hibernate 实体类必须要有无参构造函数吗？为什么？
+## 124. hibernate 实体类必须要有无参构造函数吗？为什么？
 
 hibernate 中每个实体类必须提供一个无参构造函数，因为 hibernate 框架要使用 reflection api，通过调用 ClassnewInstance() 来创建实体类的实例，如果没有无参的构造函数就会抛出异常。
 
