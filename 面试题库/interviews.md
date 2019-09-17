@@ -164,7 +164,7 @@
 149. RabbitMQ 每个节点是其他节点的完整拷贝吗？为什么？
 150. RabbitMQ 集群中唯一一个磁盘节点崩溃了会发生什么情况？
 151. RabbitMQ 对集群节点停止顺序有要求吗？
-## Kafka
+## [Kafka](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/Kafka.md) <label style="color:blue">中等</label>
 152. kafka 可以脱离 zookeeper 单独使用吗？为什么？
 153. kafka 有几种数据保留的策略？
 154. kafka 同时设置了 7 天和 10G 清除数据，到第五天的时候消息达到了 10G，这个时候 kafka 将如何处理？
