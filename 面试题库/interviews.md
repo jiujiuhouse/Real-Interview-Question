@@ -122,7 +122,7 @@
 110. 什么是 spring cloud？
 111. spring cloud 断路器的作用是什么？
 112. spring cloud 的核心组件有哪些？
-## Hibernate
+## [Hibernate](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/Hibernate.md) <label style="color:blue">中等</label>
 113. 为什么要使用 hibernate？
 114. 什么是 ORM 框架？
 115. hibernate 中如何在控制台查看打印的 SQL 语句？
