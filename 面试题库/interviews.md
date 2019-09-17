@@ -97,7 +97,7 @@
 ## 设计模式
 88. 说一下你熟悉的设计模式？
 89. 简单工厂和抽象工厂有什么区别？
-## [Spring/Spring MVC](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/Spring%20Spring%20MVC.md) <label style="color:red">中等</label>
+## [Spring/Spring MVC](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/Spring%20Spring%20MVC.md) <label style="color:blue">中等</label>
 90. 为什么要使用 spring？
 91. 解释一下什么是 aop？
 92. 解释一下什么是 ioc？
@@ -112,7 +112,7 @@
 101. spring mvc 有哪些组件？
 102. @RequestMapping 的作用是什么？
 103. @Autowired 的作用是什么？
-## Spring Boot/Spring Cloud
+## [Spring Boot/Spring Cloud](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/Spring%20boot%20cloud.md) <label style="color:blue">中等</label>
 104. 什么是 spring boot？
 105. 为什么要用 spring boot？
 106. spring boot 核心配置文件是什么？

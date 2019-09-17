@@ -23,7 +23,7 @@ spring boot 核心的两个配置文件：
 
 . properties 配置如下：
 ```properties
-spring. RabbitMQ. port=5672
+spring.RabbitMQ.port=5672
 ```
 
 .yml配置如下：
