@@ -17,7 +17,7 @@
 15. Java 中 IO 流分为几种？
 16. BIO、NIO、AIO 有什么区别？
 17. Files的常用方法都有哪些？
-## 容器
+## [容器](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/容器.md) <label style="color:blue">中等</label>
 18. Java 容器都有哪些？
 19. Collection 和 Collections 有什么区别？
 20. List、Set、Map 之间的区别是什么？
@@ -58,16 +58,16 @@
 54. synchronized 和 Lock 有什么区别？
 55. synchronized 和 ReentrantLock 区别是什么？
 56. 说一下 atomic 的原理？
-## 反射
+## [反射](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/反射.md) <label style="color:blue">中等</label>
 57. 什么是反射？
 58. 什么是 Java 序列化？什么情况下需要序列化？
 59. 动态代理是什么？有哪些应用？
 60. 怎么实现动态代理？
-## 对象拷贝
+## [对象拷贝](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/对象拷贝.md) <label style="color:blue">中等</label>
 61. 为什么要使用克隆？
 62. 如何实现对象克隆？
 63. 深拷贝和浅拷贝区别是什么？
-## Java Web
+## [Java Web](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/Java Web.md) <label style="color:green">简单</label>
 64. JSP 和 servlet 有什么区别？
 65. JSP 有哪些内置对象？作用分别是什么？
 66. 说一下 JSP 的 4 种作用域？
@@ -78,13 +78,13 @@
 71. 如何避免 SQL 注入？
 72. 什么是 XSS 攻击，如何避免？
 73. 什么是 CSRF 攻击，如何避免？
-## 异常
+## [异常](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/Java Web.md) <label style="color:green">简单</label>
 74. throw 和 throws 的区别？
 75. final、finally、finalize 有什么区别？
 76. try-catch-finally 中哪个部分可以省略？
 77. try-catch-finally 中，如果 catch 中 return 了，finally 还会执行吗？
 78. 常见的异常类有哪些？
-## 网络
+## [网络](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/网络.md) <label style="color:blue">中等</label>
 79. http 响应码 301 和 302 代表的是什么？有什么区别？
 80. forward 和 redirect 的区别？
 81. 简述 tcp 和 udp的区别？
@@ -94,7 +94,7 @@
 85. get 和 post 请求有哪些区别？
 86. 如何实现跨域？
 87. 说一下 JSONP 实现原理？
-## 设计模式
+## [设计模式](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/设计模式.md) <label style="color:blue">中等</label>
 88. 说一下你熟悉的设计模式？
 89. 简单工厂和抽象工厂有什么区别？
 ## [Spring/Spring MVC](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/Spring%20Spring%20MVC.md) <label style="color:blue">中等</label>
@@ -178,7 +178,7 @@
 161. 集群中为什么要有主节点？
 162. 集群中有 3 台服务器，其中一个节点宕机，这个时候 zookeeper 还可以使用吗？
 163. 说一下 zookeeper 的通知机制？
-## MySQL(https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/MySQL.md) <label style="color:blue">中等</label>
+## [MySQL](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/MySQL.md) <label style="color:blue">中等</label>
 164. 数据库的三范式是什么？
 165. 一张自增表里面总共有 7 条数据，删除了最后 2 条数据，重启 MySQL 数据库，又插入了一条数据，此时 id 是几？
 166. 如何获取当前数据库版本？
@@ -194,7 +194,7 @@
 176. 说一下乐观锁和悲观锁？
 177. MySQL 问题排查都有哪些手段？
 178. 如何做 MySQL 的性能优化？
-## Redis(https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/Redis.md) <label style="color:red">困难</label>
+## [Redis](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/Redis.md) <label style="color:red">困难</label>
 179. Redis 是什么？都有哪些使用场景？
 180. Redis 有哪些功能？
 181. Redis 和 memcache 有什么区别？
@@ -210,7 +210,7 @@
 191. Redis 如何做内存优化？
 192. Redis 淘汰策略有哪些？
 193. Redis 常见的性能问题有哪些？该如何解决？
-## JVM(https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/JVM.md) <label style="color:red">困难</label>
+## [JVM](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/JVM.md) <label style="color:red">困难</label>
 194. 说一下 JVM 的主要组成部分？及其作用？
 195. 说一下 JVM 运行时数据区？
 196. 说一下堆栈的区别？
