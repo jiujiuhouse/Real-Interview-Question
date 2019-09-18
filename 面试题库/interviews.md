@@ -67,7 +67,7 @@
 61. 为什么要使用克隆？
 62. 如何实现对象克隆？
 63. 深拷贝和浅拷贝区别是什么？
-## [Java Web](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/Java Web.md) <label style="color:green">简单</label>
+## [Java Web](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/JavaWeb.md) <label style="color:green">简单</label>
 64. JSP 和 servlet 有什么区别？
 65. JSP 有哪些内置对象？作用分别是什么？
 66. 说一下 JSP 的 4 种作用域？
@@ -78,7 +78,7 @@
 71. 如何避免 SQL 注入？
 72. 什么是 XSS 攻击，如何避免？
 73. 什么是 CSRF 攻击，如何避免？
-## [异常](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/Java Web.md) <label style="color:green">简单</label>
+## [异常](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/异常.md) <label style="color:green">简单</label>
 74. throw 和 throws 的区别？
 75. final、finally、finalize 有什么区别？
 76. try-catch-finally 中哪个部分可以省略？
