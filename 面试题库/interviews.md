@@ -146,7 +146,7 @@
 132. MyBatis 有哪些执行器（Executor）？
 133. MyBatis 分页插件的实现原理是什么？
 134. MyBatis 如何编写一个自定义插件？
-## [RabbitMQ](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/RabbitMQ.md) <label style="color:blue">中等</label>
+## [RabbitMQ](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/RabbitMQ.md) <label style="color:red">困难</label>
 135. RabbitMQ 的使用场景有哪些？
 136. RabbitMQ 有哪些重要的角色？
 137. RabbitMQ 有哪些重要的组件？
@@ -170,7 +170,7 @@
 154. kafka 同时设置了 7 天和 10G 清除数据，到第五天的时候消息达到了 10G，这个时候 kafka 将如何处理？
 155. 什么情况会导致 kafka 运行变慢？
 156. 使用 kafka 集群需要注意什么？
-## Zookeeper
+## [Zookeeper](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/Zookeeper.md) <label style="color:blue">中等</label>
 157. zookeeper 是什么？
 158. zookeeper 都有哪些功能？
 159. zookeeper 有几种部署模式？
@@ -178,7 +178,7 @@
 161. 集群中为什么要有主节点？
 162. 集群中有 3 台服务器，其中一个节点宕机，这个时候 zookeeper 还可以使用吗？
 163. 说一下 zookeeper 的通知机制？
-## MySQL
+## MySQL(https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/MySQL.md) <label style="color:blue">中等</label>
 164. 数据库的三范式是什么？
 165. 一张自增表里面总共有 7 条数据，删除了最后 2 条数据，重启 MySQL 数据库，又插入了一条数据，此时 id 是几？
 166. 如何获取当前数据库版本？
@@ -194,7 +194,7 @@
 176. 说一下乐观锁和悲观锁？
 177. MySQL 问题排查都有哪些手段？
 178. 如何做 MySQL 的性能优化？
-## Redis
+## Redis(https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/Redis.md) <label style="color:red">困难</label>
 179. Redis 是什么？都有哪些使用场景？
 180. Redis 有哪些功能？
 181. Redis 和 memcache 有什么区别？
@@ -210,7 +210,7 @@
 191. Redis 如何做内存优化？
 192. Redis 淘汰策略有哪些？
 193. Redis 常见的性能问题有哪些？该如何解决？
-## JVM
+## JVM(https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/面试题库/JVM.md) <label style="color:red">困难</label>
 194. 说一下 JVM 的主要组成部分？及其作用？
 195. 说一下 JVM 运行时数据区？
 196. 说一下堆栈的区别？
