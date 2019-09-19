@@ -7,5 +7,12 @@
 6. 解释下cat的原理，他是怎么实现分布式链路追踪的？知道zipkin吗？
 7. 你是怎么理解devops的，使用了那些工具？怎么配置Jenkins流水线？
 8. 平时遇见问题，你是怎么解决的？或者说一件你认为让你解决起来感觉很困难的一件事。
+## 国民健康科技
+1. 讲讲Springcloud组件
+2. 讲讲注册中心eureka原理？底层存储结构是啥？
+3. redis了解吗？怎么实现消息持久化？数据结构是啥？怎么实现分布式锁？
+4. rabbitmq用过吗？有几种订阅模式？产生死信如何解决？
+5. 工具类提供的线程池有几种类型？自定义创建线程池？接口参数有几个？分别有什么意思？
+6. HashMap的底层原理是啥？
 
 [回到目录](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/README.md)
