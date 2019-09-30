@@ -14,5 +14,16 @@
 4. rabbitmq用过吗？有几种订阅模式？产生死信如何解决？
 5. 工具类提供的线程池有几种类型？自定义创建线程池？接口参数有几个？分别有什么意思？
 6. HashMap的底层原理是啥？
+## 新核云
+1. HashSet和TreeSet的区别，用处，add方法的时间复杂度。
+2. HashTable和ConCurrentHashMap的区别。
+3. 静态嵌套类，内部类的区别，内部类的加载顺序。
+4. myisam和innodb的区别
+5. select id from tb where score+1 =10 会带来什么问题。
+6. 复合索引的最左匹配原则。
+7. 设计一个高性能单例类。
+8. https 为什么可以做到安全。
+9. mybatis # 和 $ 的区别
+10. spring ioc 实现原理。
 
 [回到目录](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/README.md)
