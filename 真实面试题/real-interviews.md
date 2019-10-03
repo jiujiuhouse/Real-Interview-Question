@@ -25,5 +25,17 @@
 8. https 为什么可以做到安全。
 9. mybatis # 和 $ 的区别
 10. spring ioc 实现原理。
+## 掌门一对一
+1. redis实现分布式锁。
+2. 部署发布流程。
+3. jdk动态代理如何实现的。
+4. docker的镜像文件存放在哪个目录。
+5. docker如何批量停止多个镜像。
+6. docker -it命令。
+7. 索引的介绍，最左匹配原则。
+8. 执行计划要优化到什么程度。
+9. eurake的心跳默认多长时间。
+10. feign的默认线程池大小。
+11. 有n级台阶，每次可以跳1或2级，一共有多少种跳法。
 
 [回到目录](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/README.md)
