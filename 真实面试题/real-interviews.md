@@ -37,5 +37,10 @@
 9. eurake的心跳默认多长时间。
 10. feign的默认线程池大小。
 11. 有n级台阶，每次可以跳1或2级，一共有多少种跳法。
-
+## 艾融软件
+1. springbean的创建过程
+2. spring的事务隔离级别,事务传播
+3. springmvc组件
+4. hashmap实现原理,put是如何实现的
+5. java常用集合,各个接口的实现
 [回到目录](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/README.md)
