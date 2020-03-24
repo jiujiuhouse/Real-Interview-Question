@@ -46,4 +46,9 @@
 ## 凌欣科技
 1. 悲观锁乐观锁
 2. 如何执行sql(什么鸟问题)
+## 中科软
+1. springbean生命周期
+2. spring事务
+3. mysql 索引，索引失效
+4. spring cloud 组件 ，服务间调用
 [回到目录](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/README.md)
