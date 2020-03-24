@@ -43,4 +43,7 @@
 3. springmvc组件
 4. hashmap实现原理,put是如何实现的
 5. java常用集合,各个接口的实现
+## 凌欣科技
+1. 悲观锁乐观锁
+2. 如何执行sql(什么鸟问题)
 [回到目录](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/README.md)
