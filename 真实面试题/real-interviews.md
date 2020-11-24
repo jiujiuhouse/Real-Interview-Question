@@ -68,4 +68,14 @@
 6.mq的组成
 7.jvm的垃圾回收
 8.dubbo
+## 太平洋保险
+1.chu集索引 非chu集索引
+2.mysql索引原理
+3.Sql调优
+4.mysql索引失效的场景
+5.java定时任务实现
+6.springmvc 流程
+7.springmvc 常用注解
+8.mysql字段类型，如何取舍
+9.springmvc过滤器怎么配置
 [回到目录](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/README.md)
