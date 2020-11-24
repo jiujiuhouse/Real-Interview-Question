@@ -59,4 +59,12 @@
 5. mybatis的${}字符替换,怎样防止sql注入
 6. 线程池的创建方式
 7. 为什么索引能加快查询速率
+##汉克时代
+1.java基础,hashmap,arrayList,LinkedList,LinkedHashMap
+2.创建线程的方式,创建线程池的方式,synchronized 锁升级的原理
+3.springmvc流程
+4.redis存储对象
+5.mysql优化
+6.mq的组成
+7.jvm的垃圾回收
 [回到目录](https://github.com/jiujiuhouse/Real-Interview-Question/blob/master/README.md)
